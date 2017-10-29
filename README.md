@@ -1,9 +1,14 @@
 Dictmate
 ========
 
-|Build Status| |Size| |Codecov|
+|| |Size| |Codecov|
 
-![Final List](Screenshot/demo_small.png)
+[![Build Status](https://travis-ci.org/arsho/dictmate.svg?branch=master)](https://travis-ci.org/arsho/dictmate)
+[![Size](https://img.shields.io/github/size/arsho/dictmate/app.py.svg?)](https://github.com/arsho/dictmate/)
+[![Codecov](https://codecov.io/github/arsho/dictmate/coverage.svg?branch=master)](https://codecov.io/github/arsho/dictmate)
+
+
+![Final List](Screenshot/demo_original_crop.png)
 
 An English to English and English to Bangla dictionary. See live [https://dictmate.herokuapp.com/](https://dictmate.herokuapp.com/)
 
@@ -64,12 +69,3 @@ The following environment is used to develop the application:
 
 - English to English JSON file provided by [Webster's Unabridged English Dictionary](https://github.com/matthewreagan/WebstersEnglishDictionary)
 - SQLite database for English to Bangla dictionary provided by [bendict](https://github.com/nitish94/bendict). The SQLite database is converted to JSON file in our project.
-
-.. |Build Status| image:: https://travis-ci.org/arsho/dictmate.svg?branch=master
-   :target: https://travis-ci.org/arsho/dictmate
-      
-.. |Size| image:: https://img.shields.io/github/size/arsho/dictmate/app.py.svg?
-   :target: https://github.com/arsho/dictmate/   
-   
-.. |Codecov| image:: https://codecov.io/github/arsho/dictmate/coverage.svg?branch=master
-   :target: https://codecov.io/github/arsho/dictmate
