@@ -1,8 +1,6 @@
 Dictmate
 ========
 
-|| |Size| |Codecov|
-
 [![Build Status](https://travis-ci.org/arsho/dictmate.svg?branch=master)](https://travis-ci.org/arsho/dictmate)
 [![Size](https://img.shields.io/github/size/arsho/dictmate/app.py.svg?)](https://github.com/arsho/dictmate/)
 [![Codecov](https://codecov.io/github/arsho/dictmate/coverage.svg?branch=master)](https://codecov.io/github/arsho/dictmate)
